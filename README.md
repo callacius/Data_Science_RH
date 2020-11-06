@@ -35,4 +35,23 @@
 
     -   **Relacionamento**
 
-    -   **Equilíbrio entre atividades pessoais e profissionais**
+    -   **Equilíbrio entre atividades pessoais e profissionais.**
+
+Fonte: <https://toggl.com/blog/cost-of-hiring-an-employee>
+
+**Fonte dos dados:
+https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+
+1.  **REGRESSÃO LOGÍSTICA**
+
+-   **Regressão linear** é usada para prever números
+
+-   Exemplo: previsão de lucros baseado na temperatura
+
+-   **Regressão logística** é usada para prever saídas binárias
+
+-   Uma das duas classes: aprovado/reprovado, ganhar/perder, saudável/doente
+
+**Aprovado**
+
+4
