@@ -54,4 +54,4 @@ https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http
 
 **Aprovado**
 
-image/01.png
+![](https://github.com/callacius/callacius/Data_Science_RH/blob/main/image/01.png?raw=true)
