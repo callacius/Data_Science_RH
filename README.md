@@ -52,6 +52,4 @@ https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http
 
 -   Uma das duas classes: aprovado/reprovado, ganhar/perder, saudável/doente
 
-**Aprovado**
-
 ![](https://github.com/callacius/Data_Science_RH/blob/main/image/01.png?raw=true)
