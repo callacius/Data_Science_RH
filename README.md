@@ -1,4 +1,4 @@
-# Departamento de Recursos Humanos.
+# Departamento de Recursos Humanos
 
 -   **Contratar e reter funcionários são tarefas extremamente complexas que
     exigem capital, tempo e habilidades**
@@ -39,7 +39,7 @@
 
 Fonte: <https://toggl.com/blog/cost-of-hiring-an-employee>
 
-**Fonte dos dados:
+Fonte dos dados:
 https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 1.  **REGRESSÃO LOGÍSTICA**
