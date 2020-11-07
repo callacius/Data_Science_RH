@@ -46,10 +46,10 @@ https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http
 
 -   **Regressão linear** é usada para prever números
 
--   Exemplo: previsão de lucros baseado na temperatura
+    -   Exemplo: previsão de lucros baseado na temperatura
 
 -   **Regressão logística** é usada para prever saídas binárias
 
--   Uma das duas classes: aprovado/reprovado, ganhar/perder, saudável/doente
+    -   Uma das duas classes: aprovado/reprovado, ganhar/perder, saudável/doente
 
 ![](https://github.com/callacius/Data_Science_RH/blob/main/image/01.png?raw=true)
