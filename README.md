@@ -40,7 +40,7 @@
 Fonte: <https://toggl.com/blog/cost-of-hiring-an-employee>
 
 Fonte dos dados:
-https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset)**
 
 1.  **REGRESSÃO LOGÍSTICA**
 
@@ -51,5 +51,4 @@ https://**[www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset](http
 -   **Regressão logística** é usada para prever saídas binárias
 
     -   Uma das duas classes: aprovado/reprovado, ganhar/perder, saudável/doente
-
-![](https://github.com/callacius/Data_Science_RH/blob/main/image/01.png?raw=true)
+![Regressão Logística](https://github.com/callacius/Data_Science_RH/blob/main/image/01.png?raw=true)
