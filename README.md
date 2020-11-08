@@ -1,5 +1,7 @@
 # Departamento de Recursos Humanos
 
+> Contratar e reter funcionários são tarefas extremamente complexas que
+> 
 -   **Contratar e reter funcionários são tarefas extremamente complexas que
     exigem capital, tempo e habilidades**
 
